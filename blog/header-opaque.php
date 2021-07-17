@@ -5,7 +5,7 @@
      <div class="s-header__logo">
          <a class="logo" href="index.php">
              <!-- <img src="images/logo.svg" alt="Homepage"> -->
-             <h2 style="color:white;font-family:monospace;display:table-cell;;padding-top:18px">Gîlcă.</h2>
+             <h2 style="color:white;font-family: var(--font-1);display:table-cell;;padding-top:18px">Gîlcă</h2>
 
          </a>
      </div>
